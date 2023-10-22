@@ -34,7 +34,7 @@ body {
 }
 ```
 ## Disclaimer
-Some Anti-Virus software may detect this as malicious, this is just a false positive. (you can check the code yourself)
+Some Anti-Virus software may detect this as malicious, this is a false positive. (you can check the code yourself)
 
 ## Credit
 Timers provided by helltides.com
