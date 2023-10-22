@@ -11,7 +11,7 @@ Small tool to display Helltide and World Boss timers (data from helltides.com).
 ![](https://i.imgur.com/lWtmSDk.jpeg)
 
 ## Requirements
-- [PT Serif](https://fonts.google.com/specimen/PT+Serif) font
+- [PT Serif](https://fonts.google.com/specimen/PT+Serif) font (*will not display like it does in screenshot without the font*)
 - [pytz](https://pypi.org/project/pytz/)
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
 - [requests](https://pypi.org/project/requests/)
