@@ -33,6 +33,8 @@ body {
     color: #f1c40f;
 }
 ```
+## Disclaimer
+Some Anti-Virus software may detect this as malicious, this is just a false positive. (you can check the code yourself)
 
 ## Credit
 Timers provided by helltides.com
