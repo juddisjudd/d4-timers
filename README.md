@@ -2,7 +2,7 @@
 Small tool to display Helltide and World Boss timers (data from helltides.com).
 
 ## How to use
-- [Download latest version](https://github.com/juddisjudd/d4-timers/releases/download/1.0/D4TimersOverlay.exe)
+- [Download latest version](https://github.com/juddisjudd/d4-timers/releases/download/1.1/bsource.exe)
 - Double click on **D4TimersOverlay.exe**
 - Drag anywhere on your screen.
 - **ctrl + q to close** (must click on it first however)
