@@ -38,7 +38,7 @@ def get_next_legion_event(legion_times):
     """Get the next legion event based on the current time and determine if it's currently active."""
     now = datetime.utcnow().replace(tzinfo=pytz.utc)
     for time in legion_times:
-        if time <= now < (time + timedelta(minutes=25)):
+        if time <= now < (time + timedelta(minutes=3)):
             return time, True
         elif now < time:
             return time, False
