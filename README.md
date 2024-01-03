@@ -20,7 +20,7 @@ Small tool to display Helltide and World Boss timers (data from helltides.com).
 [Youtube Video](https://www.youtube.com/watch?v=n3WDgsLDjLY)
 
 **URL for Browser Source in OBS:**
-> https://d4-timers.juddisjudd.repl.co/
+> ***pending-change***
 
 **Example Custom CSS for Browser Source:**
 ```
