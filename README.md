@@ -19,20 +19,6 @@ Small tool to display Helltide and World Boss timers (data from helltides.com).
 ## OBS version for streamers
 [Youtube Video](https://www.youtube.com/watch?v=n3WDgsLDjLY)
 
-**URL for Browser Source in OBS:**
-> https://d4timers.bawkbawk.net/
-
-**Example Custom CSS for Browser Source:**
-```
-body {
-    background-color: rgba(0, 0, 0, 0.8);
-    font-size: 24px;
-}
-
-#bossName {
-    color: #f1c40f;
-}
-```
 ## Disclaimer
 Some Anti-Virus software may detect this as malicious, this is a false positive. (you can check the code yourself)
 
