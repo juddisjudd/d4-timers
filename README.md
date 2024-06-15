@@ -16,9 +16,6 @@ Small tool to display Helltide and World Boss timers (data from helltides.com).
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
 - [requests](https://pypi.org/project/requests/)
 
-## OBS version for streamers
-[Youtube Video](https://www.youtube.com/watch?v=n3WDgsLDjLY)
-
 ## Disclaimer
 Some Anti-Virus software may detect this as malicious, this is a false positive. (you can check the code yourself)
 
